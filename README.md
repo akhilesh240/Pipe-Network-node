@@ -183,6 +183,5 @@ sudo systemctl restart popcache
 
 ---
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
-- Twitter - https://x.com/colony_airdrops
+- Telegram - https://t.me/CryptoVerseHindi
+- Twitter - https://x.com/Crypto_VerseH
