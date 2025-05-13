@@ -1,4 +1,4 @@
-# Pipe-Network-Testnet node
+# Pipe Network Testnet node
 
 This guide provides detailed instructions on how to set up and configure the POP Cache Node on Linux systems using the provided binaries.
 * You must be whitelisted and receive email with instructions to qualify for node's rewards.
